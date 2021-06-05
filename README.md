@@ -28,7 +28,7 @@ We ranked 2nd on the test set (F1).
 | en_core_web_trf (our) | 0.493      | 0.505  | 0.50 |
 | Median                | 0.493      | 0.458  | 0.42 |
 ### Task 6 
-We ranked 2nd on the test set (F1).
+We ranked 5th on the test set (F1).
 |                | Precision | Recall   | F1   |
 | ---            | ---       | ---      | ---  |
 | BERTweet (our) | 0.94      | 0.94  | 0.94 |
