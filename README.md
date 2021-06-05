@@ -2,12 +2,12 @@
 <div align="center">   
 
 # BERT based Transformers lead the way in Extraction of Health Information from Social Media
-### [Paper](https://www.aclweb.org/anthology/2021.smm4h-1.5.pdf)
+[Sidharth R](https://github.com/RSid8), [Abhiraj Tiwari](https://github.com/abhirajtiwari), [Parthivi Choubey](https://github.com/parthivi1607), [Saisha Kashyap](https://github.com/SaishaKashyap), [Sahil Khose](https://github.com/sahilkhose), Kumud Lakara, Nishesh Singh, Ujjwal Verma
+### [NAACL Paper](https://www.aclweb.org/anthology/2021.smm4h-1.5.pdf)
 </div>
 
 ## Submission to SMM4H
-- This repo contains the codes for Task 1a, 1b, Task 6 of the Social Media Mining for Health Applications Workshop
-- Authors: [Sidharth R](https://github.com/RSid8), [Abhiraj Tiwari](https://github.com/abhirajtiwari), [Parthivi Choubey](https://github.com/parthivi1607), [Saisha Kashyap](https://github.com/SaishaKashyap), [Sahil Khose](https://github.com/sahilkhose), Kumud Lakara, Nishesh Singh, Ujjwal Verma
+This repo contains the codes for Task 1a, 1b, Task 6 of the Social Media Mining for Health Applications Workshop
 
 --------------------------------------------------------------------------------------------
 ## Abstract
