@@ -34,7 +34,8 @@ We ranked 2nd on the test set (F1).
 | BERTweet (our) | 0.94      | 0.94  | 0.94 |
 | Median         | 0.93      | 0.93  | 0.93 |
 --------------------------------------------------------------------------------------------
-## Citation
+## :books: Citation
+If you find our paper useful in your research, please consider citing:
 ```
 @inproceedings{ramesh-etal-2021-bert,
     title = "{BERT} based Transformers lead the way in Extraction of Health Information from Social Media",
